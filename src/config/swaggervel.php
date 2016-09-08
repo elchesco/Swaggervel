@@ -54,7 +54,7 @@ return array(
       |--------------------------------------------------------------------------
     */
     "generateAlways" => true,
-
+    "generateAnnotationPhpFile" => false,
     "api-key" => "auth_token",
 
     /*
